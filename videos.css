@@ -1,0 +1,14 @@
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto; /* Adjust margin as needed */
+    width: 85%; /* Adjust width as needed */
+    height: 50vh; /* Adjust height as needed */
+    border: 2px solid red;
+    overflow: hidden;
+}
+.para{
+    padding: 0 90px;
+    font-size: large;
+}

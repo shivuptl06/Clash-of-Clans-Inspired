@@ -1,0 +1,50 @@
+article {
+  display: flex;
+  justify-content: center;
+}
+.feedbackarticle{
+    justify-content: center;
+}
+fieldset {
+  border: 2px solid red;
+  width: 90%;
+}
+legend {
+  font-size: xx-large;
+  display: flex;
+}
+.formdiv {
+  margin: 10px;
+}
+.list{
+    position: relative;
+    top: -60px;
+}
+.textarealabel {
+    position: relative;
+    top: -6vw;
+}
+button{
+    height: 40px;
+    width: 90px;
+}
+.asidefeild{
+    margin: 5px auto;
+    justify-content: center;
+}
+.labeldiv{
+    margin: 10px;
+    padding: 5px;
+    font-size: larger;
+}
+
+.willvisit{
+    display: flex;
+    margin: 10px;
+    
+
+    justify-content: center ;
+}
+.visitagain{
+    padding: 10px;
+}
